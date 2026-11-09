@@ -27,7 +27,7 @@ I am a **Data Scientist and Data Analyst** with a background in business develop
 <div align="center">
 
 ![Vissotia](https://img.shields.io/badge/VISSOTIA-PropTech_%2B_AI-0F766E?style=for-the-badge)
-![Finalist](https://img.shields.io/badge/FINALIST-Premios_Fotocasa_Pro_2026-D4A017?style=for-the-badge)
+[![Finalist](https://img.shields.io/badge/FINALIST-Premios_Fotocasa_Pro_2026-D4A017?style=for-the-badge)](https://blogprofesional.fotocasa.es/finalistas-premios-fotocasa-pro-2026)
 
 </div>
 
@@ -45,7 +45,7 @@ Real estate teams often work with disconnected data sources, manual document pro
 
 The platform is designed to move from raw property information to **clear commercial reasoning and concrete actions**, while preserving the context and evidence behind every recommendation.
 
-> 🏆 **Vissotia was selected as a finalist in the Premios Fotocasa Pro 2026**, recognising its innovative approach to applying data and AI to the real estate sector.
+> 🏆 **Vissotia was selected as a finalist for Best PropTech Initiative at the [Premios Fotocasa Pro 2026](https://blogprofesional.fotocasa.es/finalistas-premios-fotocasa-pro-2026)**, recognising its innovative approach to applying data and AI to the real estate sector.
 
 ## Tech stack
 
