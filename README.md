@@ -68,6 +68,17 @@ The platform is designed to move from raw property information to **clear commer
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🤖 [Vissotia AI Assistant MVP](https://github.com/JOBdeini/vissotia-ai-assistant-mvp)
+
+Public demonstrator for Vissotia: a conversational real estate assistant built with Gemini, RAG, ChromaDB, LangGraph and Streamlit to provide context-aware answers grounded in project knowledge.
+
+`Generative AI` `RAG` `Gemini` `LangGraph` `ChromaDB` `Streamlit`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏨 [Hotel Cancellation Prediction](https://github.com/JOBdeini/prediccion-cancelaciones-hoteleras)
@@ -90,31 +101,11 @@ Analysis of 5,006 employee reviews using DistilBERT sentiment analysis, BERTopic
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ [COMPAS Fairness Analysis](https://github.com/JOBdeini/compas-recidivism-bias-analysis)
-
-Exploratory analysis and fairness evaluation of a recidivism risk assessment system using statistical and Machine Learning metrics.
-
-`Responsible AI` `Fairness` `Python` `Statistics`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🏠 [Real Estate Data Warehouse](https://github.com/JOBdeini/proyecto-sql-inmobiliaria)
 
 PostgreSQL data warehouse with dimensional modeling, analytical business views and exploratory analysis for the real estate domain.
 
 `SQL` `PostgreSQL` `Data Modeling` `Analytics`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Teen Mental Health EDA](https://github.com/JOBdeini/evolve-python-core-teen-mental-health-eda)
-
-Exploratory analysis of the relationships between social media use, sleep patterns and indicators of depression in teenagers.
-
-`EDA` `Python` `Data Visualization` `Mental Health`
 
 </td>
 <td width="50%" valign="top">
