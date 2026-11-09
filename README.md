@@ -27,7 +27,7 @@ I am a **Data Scientist and Data Analyst** with a background in business develop
 <div align="center">
 
 ![Vissotia](https://img.shields.io/badge/VISSOTIA-PropTech_%2B_AI-0F766E?style=for-the-badge)
-[![Finalist](https://img.shields.io/badge/FINALIST-Premios_Fotocasa_Pro_2026-D4A017?style=for-the-badge)](https://blogprofesional.fotocasa.es/finalistas-premios-fotocasa-pro-2026)
+[![Finalist](https://img.shields.io/badge/FINALIST-Premios_Fotocasa_Pro_2026-303AB2?style=for-the-badge)](https://blogprofesional.fotocasa.es/finalistas-premios-fotocasa-pro-2026)
 
 </div>
 
